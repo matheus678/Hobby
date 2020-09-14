@@ -1,0 +1,31 @@
+body {
+    height: 800px;
+    background-image: url(https://cellerepair.com/images/sliders/backgroundimages/8c9cbb22fcd29b9d61b7420fc3e6acba.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'PT Serif';
+}
+
+h1 {
+    background: blue;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    position: relative;
+    left: 540px;
+    top: 30px;
+    text-align: center;
+    width: 900px;
+    height: 180px;
+    font-size: 64px;
+}
+
+p {
+    font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    position: center;
+    color: black;
+    
+    letter-spacing: 5px;
+
+}
